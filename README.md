@@ -1,4 +1,4 @@
-# HackMyVM-Writeups
+## HackMyVM-Writeups
 
 Repositorio personal enfocado en el hacking ofensivo de manera ordenada y ética, basado en las máquinas vulnerables de HackMyVM. Su objetivo es proporcionar un entorno controlado y adecuado para el aprendizaje y la práctica de técnicas de ciberseguridad.
 
@@ -6,4 +6,4 @@ Todo instructivo o Cheat Sheet deberá ponerse a prueba únicamente en entornos 
 
 El uso inadecuado de la información contenida en este repositorio puede derivar en consecuencias legales para quien la emplee fuera de los contextos autorizados.
 
-## Writeups by M1s3ry
+# Writeups by M1s3ry
