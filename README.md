@@ -5,5 +5,3 @@ Repositorio personal enfocado en el hacking ofensivo de manera ordenada y ética
 Todo instructivo o Cheat Sheet deberá ponerse a prueba únicamente en entornos legales y controlados, respetando la legislación vigente de cada país y evitando cualquier uso indebido o ilegal de las técnicas descritas.
 
 El uso inadecuado de la información contenida en este repositorio puede derivar en consecuencias legales para quien la emplee fuera de los contextos autorizados.
-
-Author: M1s3ry
